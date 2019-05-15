@@ -2,7 +2,7 @@
 
 In project directory, you can run:
 
-### `npm start`
+### `npm install`
 
 After you device or emulator is conected:
 
