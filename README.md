@@ -1,4 +1,4 @@
-You must have native installation react on your computer to run this project
+You must have react native installation on your computer to run this project
 
 ## Available Scripts
 
