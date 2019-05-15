@@ -1,3 +1,5 @@
+Is necessary be have react native install in your computer for run this project
+
 ## Available Scripts
 
 In project directory, you can run:
